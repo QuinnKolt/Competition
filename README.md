@@ -69,8 +69,9 @@ User sign-up:
 - Optional email
 - "I want my name to be visible in public score statistics." (This can be changed at any time, even after scores are 
 shared)
-- "I acknowledge that regardless of my previous choice, my score will be visible in public score statistics."
+- "I acknowledge that regardless of my previous choice, my score (without my name) will be visible in public score statistics."
 - Select from background list for topics user is comfortable with (confident, familiar, no understanding)
+
 
 Topic claim:
 ---
@@ -83,6 +84,7 @@ Problem upload:
 - Upload as pdf, png, jpg, or tex
 - Select from background list for topics needed to solve problem (heavy, light, none)
 - Select topic or confirm topic chosen before
+- Select additional allowed resources
 - "I confirm that I have a full solution of this problem and that it requires no knowledge beyond the topics selected."
 - "I will grade this problem within one month of the competition end date." (if not checked or deadline missed, 
 competition organizers will grade the solutions) 
@@ -119,6 +121,6 @@ Statistics by problem
 
 Detailed summary: lots of statistics/plots/etc + this table
 
-| Username               | Score               | Problem creator    |
-|------------------------|---------------------|--------------------|
-| Username of competitor | Nonnegative integer | Username of writer |
+| Username               | Score               |
+|------------------------|---------------------|
+| Username of competitor | Nonnegative integer |
