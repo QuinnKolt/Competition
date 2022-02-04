@@ -134,4 +134,4 @@ Detailed summary: lots of statistics/plots/etc + this table
 
 | Username               | Score               |
 |------------------------|---------------------|
-| Username of competitor | Nonnegative integer |
+| Username of competitor |         0-10        |
