@@ -43,6 +43,7 @@ is known about the problems contributed as possible.
 Background list:
 ---
 
+- Store as JSON
 - Calculus 1: limits and differentiation
 - Calculus 2: integration and series
 - Calculus 3: multivariable calculus 1&2, Green's, Stoke's, Divergence
@@ -51,12 +52,12 @@ Background list:
 - Real analysis: structure of real line, limits, continuity
 - Complex analysis: Cauchy-Riemann equations, Cauchy's theorem, residue theorem
 - Group theory: Lagrange's theorem, Sylow theorems
-- TODO: Add more
 
 Topic list: 
 ---
 Select 1-2 from background list + additional choices
 
+- Store as JSON
 - Parity problem
 - Invariant/Monovariant problem
 - TODO: Add more
@@ -72,6 +73,15 @@ shared)
 - "I acknowledge that regardless of my previous choice, my score (without my name) will be visible in public score statistics."
 - Select from background list for topics user is comfortable with (confident, familiar, no understanding)
 
+Update account to admin account:
+---
+
+- Enter admin password to become admin
+- Admins can view/delete problems at any time
+- Admins can delete user accounts and view their emails
+- Admins can add/remove background items and topics
+- Admins cannot view names on statistics/solutions that are not visible to general users
+- After grading deadline or after a grade is submitted, admins can view/adjust grades and solutions 
 
 Topic claim:
 ---
@@ -89,6 +99,7 @@ Problem upload:
 - "I will grade this problem within one month of the competition end date." (if not checked or deadline missed, 
 competition organizers will grade the solutions) 
 - Preview problem
+- Users who upload problems can provide access to view the problem/solution to any other user
 
 Problem table:
 ---
